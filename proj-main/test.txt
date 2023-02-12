@@ -1,0 +1,4 @@
+<h1>Welcome <?php echo $row['name'];?></h1>
+    <div class="container">
+        <a href='logout.php'>Logout</a>
+    </div>
